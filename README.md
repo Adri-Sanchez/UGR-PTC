@@ -6,8 +6,8 @@
 
 Prácticas de la asignatura *Programación Técnica y Científica* usando el lenguaje de programación Python.  
 
-**Práctica 1.-** Manejo de bases de datos estadísticas y visualización.
-**Práctica 2.-** Uso de Machine Learning para entrenar un modelo que resuelva la detección de personas en un entorno simulado. 
+**Práctica 1.-** Manejo de bases de datos estadísticas y visualización.  
+**Práctica 2.-** Uso de Machine Learning para entrenar un modelo que resuelva la detección de personas en un entorno simulado.   
 
 ## Construido con
 
