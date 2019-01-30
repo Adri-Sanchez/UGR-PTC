@@ -6,7 +6,7 @@
 
 University projects for the subject *Technical and Scientific Programming* using Python.  
 
-**Práctica 1.-** Statistical database management and visualization.  
+**Práctica 1.-** Statistical database management and visualization with HTML.  
 **Práctica 2.-** Using Machine Learning to train a model that solves human detection problem in a simulated environment.  
 
 ## Built with
