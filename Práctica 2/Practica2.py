@@ -400,7 +400,7 @@ def train_model(show = False):
         print(classification_report(test_label, test_pred_svc))
         print("--------------------------------------------------------\n")
     
-    # Utilizamos un Kernel Gaussiano de base Radial
+    # Utilizamos árbol de decisión
 
     dtree = DecisionTreeClassifier(random_state = 0)
     dtree.fit(train_data, train_label)
